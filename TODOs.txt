@@ -1,0 +1,5 @@
+- Pokemon Informations
+ 1. Id
+ 2. Sprites -> Default
+ 3. Types -> Type -> Name
+ 4. Name
